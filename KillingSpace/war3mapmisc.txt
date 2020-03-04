@@ -1,5 +1,0 @@
-[Misc]
-DrainTransfersMana=1
-FoodCeiling=1000
-UpkeepUsage=10000,10000,10000,10000,10000,10000,10000,10000
-
